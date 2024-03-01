@@ -1,0 +1,18 @@
+{
+    "## Comment" = "Do NOT change this file, Gorm maintains it";
+    Controller = {
+	Actions = (
+	    "showCurrentTime:"
+	);
+	Outlets = (
+	    label
+	);
+	Super = NSObject;
+    };
+    FirstResponder = {
+	Actions = (
+	    "showCurrentTime:"
+	);
+	Super = NSObject;
+    };
+}
